@@ -3,9 +3,9 @@
 ### Hi there, I am Chetan Raut 👋
 
 [![Linkedin Badge](https://img.shields.io/badge/-chetanraut-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/chetanraut/)](https://www.linkedin.com/in/chetan-raut-ba20812ba/)
-[![Gmail Badge](https://img.shields.io/badge/-rautc157@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rautc157@gmail.com)](mailto:rautc157@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-shahaman786215@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahaman786215@gmail.com)](mailto:shahaman786215@gmail.com)
 
-- 🎯 Portfolio website: [Portfolio](https://rautc.github.io/)
+- 🎯 Portfolio website: [Portfolio](https://github.com/codeonearth)
 - ⚡ Fun fact: The first rule of programming- if it works, don’t touch it.🤓
 
 💻 **Things I love**
